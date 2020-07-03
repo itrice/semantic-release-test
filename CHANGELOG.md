@@ -1,3 +1,16 @@
+# [2.3.0](https://github.com/gsdevme/semantic-release-test/compare/v2.2.0...v2.3.0) (2020-07-03)
+
+
+### Bug Fixes
+
+* fixed a bug I did ([9d433ec](https://github.com/gsdevme/semantic-release-test/commit/9d433ec140c1ca811e3f4d6cddbc4992bacb8960))
+
+
+### Features
+
+* cool features ([0d9554a](https://github.com/gsdevme/semantic-release-test/commit/0d9554a1cba4a55d5f3e66366d600cd9ab7e3e2c))
+* more features ([e95fe2a](https://github.com/gsdevme/semantic-release-test/commit/e95fe2a86b042385636b74e0e8f1e2022b04d3cc))
+
 # [2.2.0](https://github.com/gsdevme/semantic-release-test/compare/v2.1.0...v2.2.0) (2020-07-03)
 
 
