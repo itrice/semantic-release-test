@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/gsdevme/semantic-release-test/compare/v2.1.0...v2.2.0) (2020-07-03)
+
+
+### Features
+
+* a good feature ([0892216](https://github.com/gsdevme/semantic-release-test/commit/0892216ebad68fc7a3a7841ceaf5f8604be004b0))
+
 # [2.1.0](https://github.com/gsdevme/semantic-release-test/compare/v2.0.0...v2.1.0) (2020-07-03)
 
 
