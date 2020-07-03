@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/gsdevme/semantic-release-test/compare/v2.0.0...v2.1.0) (2020-07-03)
+
+
+### Features
+
+* minor feature ([5918204](https://github.com/gsdevme/semantic-release-test/commit/59182041b1fb59c5a77e5939180e0a978ccd7850))
+
 # [2.0.0](https://github.com/gsdevme/semantic-release-test/compare/v1.1.0...v2.0.0) (2020-07-03)
 
 
