@@ -1,3 +1,11 @@
+# [2.4.0](https://github.com/gsdevme/semantic-release-test/compare/v2.3.0...v2.4.0) (2020-07-10)
+
+
+### Features
+
+* pretend feat ([5392adf](https://github.com/gsdevme/semantic-release-test/commit/5392adfff40dd42a2ff789e74fd290f41ab04d17))
+* test adding npm to the release ([7be7080](https://github.com/gsdevme/semantic-release-test/commit/7be70807b5f4e8141eebd91795ab47be55da8b99))
+
 # [2.3.0](https://github.com/gsdevme/semantic-release-test/compare/v2.2.0...v2.3.0) (2020-07-03)
 
 
