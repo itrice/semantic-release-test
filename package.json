@@ -62,5 +62,9 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/git": "github:semantic-release/git",
     "semantic-release": "^17.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:conventional-changelog/standard-version.git"
   }
 }
